@@ -1,3 +1,5 @@
-# Quasar App
+# PX News By Region
 
-> WIP
+See news by geographic regions.
+
+Bugs? Email me: paulo@thriade.com
